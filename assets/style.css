@@ -1,0 +1,38 @@
+h1 {
+    color: silver;
+    font-size: 150px;
+}
+
+h2 {
+    font-size: 30px
+}
+
+h3 {
+    font-size: 30px
+}
+
+li {
+    font-size: 20px
+}
+
+p {
+    font-size: 20px
+}
+
+.score {
+    color: gray;
+}
+
+.gold {
+    color: gold;
+}
+
+#gameLink {
+    text-align: center;
+    border: 1px solid gray;
+}
+
+#credits {
+    font-size: 30px
+
+}

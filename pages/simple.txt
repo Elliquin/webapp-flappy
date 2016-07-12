@@ -1,0 +1,10 @@
+KESTREL RUN!
+
+Welcome to Kestrel Run
+
+Here will be the game
+
+How to play:
+- Press SPACE to activate upward thrusters.
+- Avoid incoming asteroids.
+- If you crash, just try again!
