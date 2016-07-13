@@ -27,12 +27,34 @@ p {
     color: gold;
 }
 
-#gameLink {
-    text-align: center;
-    border: 1px solid gray;
+#game {
+    margin-left: 150px;
 }
 
-#credits {
-    font-size: 30px
+#scoresbtn {
+    font-size: 40px;
+    border: 2px solid;
+}
 
+#creditsbtn {
+    font-size: 40px;
+    border: 2px solid;
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+
+#conceptbtn {
+    font-size: 40px;
+    border: 2px solid;
+}
+
+#instructionsbtn {
+    font-size: 40px;
+    border: 2px solid;
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+
+.container {
+   width: 100%;
 }
